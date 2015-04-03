@@ -11,8 +11,6 @@ import javax.validation.constraints.Size;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
-import com.sap.hana.cloud.samples.granny.xcc.validations.ValidPhoneNumber;
-
 /**
  * The phone number of a {@link Contact}.
  */

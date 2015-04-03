@@ -1,8 +1,6 @@
 package com.sap.hana.cloud.samples.granny.model;
 
 import java.io.Serializable;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Map;
 
 import javax.xml.bind.annotation.XmlAccessType;
